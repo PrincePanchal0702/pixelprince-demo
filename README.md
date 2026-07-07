@@ -1,2 +1,2 @@
 # pixelprince-demo
-author = Prince Panchal
+author = <i>Prince Panchal</i>
